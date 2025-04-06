@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LDARalOfxU5eDwIZx39GxTvmDJLL/HzBLMBIdff9aEc=",
+  "Source": "InspectionApiApp",
+  "BasePath": "_content/InspectionApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
